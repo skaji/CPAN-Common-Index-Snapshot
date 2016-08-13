@@ -90,7 +90,7 @@ L<App::cpanminus>
 
 L<Menlo>
 
-L<Caron>
+L<Carton>
 
 L<Menlo::Index::*|https://github.com/miyagawa/cpanminus/tree/menlo/lib/Menlo/Index>
 

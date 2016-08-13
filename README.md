@@ -38,7 +38,7 @@ I'm sure the hackability of [Menlo](https://metacpan.org/pod/Menlo) will allow u
 
 [Menlo](https://metacpan.org/pod/Menlo)
 
-[Caron](https://metacpan.org/pod/Caron)
+[Carton](https://metacpan.org/pod/Carton)
 
 [Menlo::Index::\*](https://github.com/miyagawa/cpanminus/tree/menlo/lib/Menlo/Index)
 
